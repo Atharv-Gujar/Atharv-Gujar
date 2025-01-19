@@ -37,11 +37,11 @@ I am a **Flutter** and **Kotlin** developer with experience in creating various 
 
 ## 📊 GitHub Stats  
 
-![Visitor Count](https://komarev.com/ghpvc/?username=your-github-username&color=blue)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical)  
-![Trophy](https://github-profile-trophy.vercel.app/?username=your-github-username&theme=gruvbox)  
-![Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)  
-![Top Skills](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)  
+![Visitor Count](https://komarev.com/ghpvc/?username=Atharv-Gujar&color=blue)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Atharv-Gujar&theme=radical)  
+![Trophy](https://github-profile-trophy.vercel.app/?username=Atharv-Gujar&theme=gruvbox)  
+![Stats](https://github-readme-stats.vercel.app/api?username=Atharv-Gujar&show_icons=true&theme=radical)  
+![Top Skills](https://github-readme-stats.vercel.app/api/top-langs/?username=Atharv-Gujar&layout=compact&theme=radical)  
 
 ---
 
