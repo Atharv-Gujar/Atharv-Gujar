@@ -37,12 +37,12 @@ I am a **Flutter** and **Kotlin** developer with experience in creating a variet
 
 ## 🚀 Let's Connect!
 - **GitHub**: [AtharvGujar](https://github.com/your-github-username)  
-- **LinkedIn**: [Atharv Gujar](https://linkedin.com/in/your-linkedin-profile)  
+- **LinkedIn**: [Atharv Gujar](https://www.linkedin.com/in/atharv-gujar-354817239/)  
 - **Instagram**: [android_development_99](https://instagram.com/android_development_99)  
 
 ---
 
 ## 📫 Contact Me
-- Email: **your-email@example.com**
+- Email: **atharvgujar3@gmail.com**
 
 I’m always open to collaboration and learning new technologies! Feel free to reach out. 🚀
